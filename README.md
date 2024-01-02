@@ -38,4 +38,5 @@ PowerBi Excel
 
 ### 9.Customer Segmentation: 
   Consumers account for 47%, corporate for 33%, and home office for 20% of total sales.
+
 Feel free to explore the Full Power BI report here(https://github.com/anika1920/Superstore-analysis/blob/main/super%20shop%20analysis.pdf) to interact with the visualizations and dive deeper into the analysis.
